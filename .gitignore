@@ -53,8 +53,10 @@ sysinfo.txt
 
 # Builds
 *.apk
-*.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+/.idea*
+*.DS_Store*
+*Zenject*.csproj.meta
